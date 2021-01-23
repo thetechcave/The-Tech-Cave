@@ -1,7 +1,8 @@
 # ----
 # Site
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: CloudCannon/base-jekyll-template
 title: The Tech Cave
 description: A massive database of information about IT for those who need it.
 baseurl:
