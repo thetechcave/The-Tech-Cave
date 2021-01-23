@@ -1,0 +1,11 @@
+# ----
+# Site
+
+title: Linux World
+url: "https://thetechcave.github.io"
+baseurl: "/linuxworld"
+
+logo: /siteicon.png
+description: Your ultimate Linux resources.
+
+# ----
