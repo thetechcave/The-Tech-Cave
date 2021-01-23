@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: The Tech Cave
 description: A massive database of information about IT for those who need it.
+baseurl:
